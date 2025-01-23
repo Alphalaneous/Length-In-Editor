@@ -1,0 +1,32 @@
+{
+	"geode": "4.2.1",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074"
+	},
+	"id": "alphalaneous.length_in_editor",
+	"name": "Length In Editor",
+	"version": "v1.0.0",
+	"developer": "Alphalaneous",
+	"description": "Show length in editor",
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.15.0",
+            "importance": "required"
+        }
+    ],
+	"links": {
+        "homepage": "https://linktr.ee/Alphalaneous",
+        "source": "https://github.com/Alphalaneous/Length-In-Editor",
+        "community": "https://discord.gg/Txn2CA5dHF"
+    },
+	"settings": {
+		"is-enabled": {
+			"name": "Enabled",
+			"description": "Enable the label",
+			"type": "bool",
+			"default": true
+		}
+	}
+}
