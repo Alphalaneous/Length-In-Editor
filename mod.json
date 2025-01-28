@@ -6,7 +6,7 @@
 	},
 	"id": "alphalaneous.length_in_editor",
 	"name": "Length In Editor",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "Alphalaneous",
 	"description": "Show length in editor",
 	"dependencies": [

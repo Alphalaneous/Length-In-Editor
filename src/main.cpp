@@ -106,7 +106,7 @@ class $modify(MyEditorUI, EditorUI) {
 			lengthLabel->setScale(0.5f);
 			lengthLabel->setID("length-label"_spr);
 
-			fields->m_timeLabel = CCLabelBMFont::create("", "chatFont.fnt");
+			fields->m_timeLabel = CCLabelBMFont::create("1s", "chatFont.fnt");
 			fields->m_timeLabel->setPositionY(-8);
 			fields->m_timeLabel->setID("time-label"_spr);
 
