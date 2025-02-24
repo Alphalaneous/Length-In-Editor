@@ -1,3 +1,6 @@
+# 1.0.3
+- Add tags
+
 # 1.0.2
 - Forgot mac
 
