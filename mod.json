@@ -1,13 +1,14 @@
 {
-	"geode": "4.2.0",
+	"geode": "4.3.1",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074",
-		"mac": "2.2074"
+		"mac": "2.2074",
+		"ios": "2.2074"
 	},
 	"id": "alphalaneous.length_in_editor",
 	"name": "Length In Editor",
-	"version": "v1.0.3",
+	"version": "v1.0.4",
 	"developer": "Alphalaneous",
 	"description": "Show length in editor",
 	"dependencies": [
